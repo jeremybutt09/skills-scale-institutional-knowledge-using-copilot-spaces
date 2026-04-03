@@ -11,6 +11,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 ## Pre-release requirements
 - All acceptance criteria met and PRs merged
 - Passing CI and security scans
+- QA sign-off received (see [Handoff Checklist — Phase 4](octoacme-handoff-checklist.md))
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
